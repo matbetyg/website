@@ -9,7 +9,7 @@ body, html {
 }
 
 
-body {
+body,h1 {
   background-color: #F8C569;
   min-height: 100%;
   background-position: center;
